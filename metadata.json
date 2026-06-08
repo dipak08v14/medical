@@ -1,0 +1,6 @@
+{
+  "name": "Rajlaxmi Medical And General Stores",
+  "description": "The official landing page for Rajlaxmi Medical And General Stores pharmacy in Mukti Nagar, Sachin, Surat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
